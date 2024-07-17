@@ -1,0 +1,20 @@
+{
+    "todos": [
+      {
+        "id": 1,
+        "task": "Finish homework",
+        "status": false
+      },
+      {
+        "id": 2,
+        "task": "Walk the dog",
+        "status": false
+      },
+      {
+        "id": 3,
+        "task": "Read a book",
+        "status": true
+      }
+    ]
+  }
+  
